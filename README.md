@@ -1,7 +1,6 @@
 # CMPS 6100  Lab 11
 
-In this lab, you will take your basic chat program and turn it into
-multi-threaded chat application.
+In this lab, you will turn your basic chat program into a a chat application that can handle multiple clients, allowing all to chat in a shared chat space.
 
 To complete this lab, follow the instructions in [lab-10.md](lab-10.md) ([PDF version](lab-10.pdf)). Below you'll find important and useful information about submitting your work, using git, and testing your code. 
 
