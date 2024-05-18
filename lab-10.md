@@ -1,4 +1,4 @@
-# CMPS 6100  Lab 11
+# CMPS 6100  Lab 10
 
 In this lab, you will turn your basic chat program into a a chat application 
 that can handle multiple clients, allowing all to chat in a shared chat space. 
