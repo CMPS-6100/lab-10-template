@@ -162,4 +162,5 @@ same instance of `server_ref`.
 - [OSTEP: Ch. 27 Interlude: Thread API](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 - [CNASA: Ch. 1.4: Software](https://book.systemsapproach.org/foundation/software.html)
 - [Harvard's CS50 Manual Page](https://manual.cs50.io/) 
+- [Harvard's CS50 Duck AI](https://cs50.ai/)
 - [Stanford's Essential C](http://cslibrary.stanford.edu/101/)
