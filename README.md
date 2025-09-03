@@ -6,7 +6,7 @@ To complete this lab, follow the instructions in [lab-10.md](lab-10.md) ([PDF ve
 
 ## Turning in your work
 - At the top of `answers.md` file, **include your name**.
-- Once you have pushed your final submission to GitHub, go to Canvas and submit a link to your repository to the Canvas assignment for this lab. 
+- Push the final version of your lab files to GitHub.
 
 ## Using Git 
 - [Clone] your lab repository.
